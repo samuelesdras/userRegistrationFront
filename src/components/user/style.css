@@ -1,0 +1,14 @@
+.user__img {
+    height: 250px;
+    width: 50%;
+}
+
+.user__img--notfound{
+    width: 25%;
+}
+
+.user__form {
+    border: 0px 1px 1px 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+  }
